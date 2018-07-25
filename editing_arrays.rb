@@ -30,6 +30,7 @@ def add_colors
   # rainbow_colors << "green"
   # rainbow_colors << "blue"
   rainbow_colors.push "green"
+  rainbow_colors.push "blue"
   return rainbow_colors
 end
 # change_rainbow_colors
