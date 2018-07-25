@@ -27,8 +27,9 @@ def add_colors
     "light_yellow"
   ]
 
-  rainbow_colors << "green"
-  rainbow_colors << "blue"
+  # rainbow_colors << "green"
+  # rainbow_colors << "blue"
+  rainbow_colors.push "green"
   return rainbow_colors
 end
 # change_rainbow_colors
